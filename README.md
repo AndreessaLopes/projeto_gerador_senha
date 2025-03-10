@@ -30,5 +30,5 @@ O design básico foi criado com **CSS3**, mas você pode personalizar a aparênc
    cd projeto_gerador_senha
    
 3. Abra o arquivo index.html no navegador.
-  ```bash
-  start index.html
+   ```bash
+   start index.html
